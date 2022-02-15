@@ -4,5 +4,23 @@
   },
   "dependencies": {
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "name": "blue_exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nando-Xavier/treino-antes-do-inicio-das-aulas-blue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nando-Xavier/treino-antes-do-inicio-das-aulas-blue/issues"
+  },
+  "homepage": "https://github.com/Nando-Xavier/treino-antes-do-inicio-das-aulas-blue#readme",
+  "description": ""
 }
