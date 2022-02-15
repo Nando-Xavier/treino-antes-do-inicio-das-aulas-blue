@@ -11,4 +11,4 @@ console.log();
 const total01 = qtd_peca_01 * preco_peca_01;
 const total02 = qtd_peca_02 * preco_peca_02;
 console.log();
-console.log(`O valor a ser pago será de ${total01 + total02} reis.`);
+console.log(`O valor a ser pago será de ${total01 + total02} reais.`);
